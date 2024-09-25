@@ -35,6 +35,6 @@ A simple weather application that allows users to check the current weather cond
 7.Open your browser and visit http://localhost:3000 to view the app.
 
 8.License:- 
---This README provides an overview of the app, the technology stack, and instructions on how to set up and run the application. You can copy-paste and modify this as needed for your project!
+This README provides an overview of the app, the technology stack, and instructions on how to set up and run the application. You can copy-paste and modify this as needed for your project!
 
 
