@@ -26,7 +26,7 @@ A simple weather application that allows users to check the current weather cond
 
 4.Get your API key from OpenWeatherMap.
 
-5.Create a .env file in the root directory and add your API key:   
+5.Create a .env file in the root directory and add your API key:-  
 --REACT_APP_API_KEY=your_openweathermap_api_key
 
 6.Start the app:-   
@@ -34,8 +34,7 @@ A simple weather application that allows users to check the current weather cond
 
 7.Open your browser and visit http://localhost:3000 to view the app.
 
-8.License:-
---This project is open-source and available under the MIT License.
+8.License:- 
 --This README provides an overview of the app, the technology stack, and instructions on how to set up and run the application. You can copy-paste and modify this as needed for your project!
 
 
