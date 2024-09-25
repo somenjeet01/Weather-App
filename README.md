@@ -19,18 +19,18 @@ A simple weather application that allows users to check the current weather cond
    ```bash
    git clone https://github.com/your-username/weather-app.git
 2.Navigate to the project directory:-  
-  --cd Weather-App
+   --cd Weather-App
                 
 3.Install dependencies:-  
---npm install
+   --npm install
 
 4.Get your API key from OpenWeatherMap.
 
 5.Create a .env file in the root directory and add your API key:-  
---REACT_APP_API_KEY=your_openweathermap_api_key
+   --REACT_APP_API_KEY=your_openweathermap_api_key
 
 6.Start the app:-   
---npm start
+   --npm start
 
 7.Open your browser and visit http://localhost:3000 to view the app.
 
